@@ -16,6 +16,8 @@ sites:
     url: https://vcoud.com
   - name: Unainversión
     url: https://unainversion.com
+  - name: FS App
+    url: https://farmingsimulator.app
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
