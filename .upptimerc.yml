@@ -15,6 +15,8 @@ sites:
     url: https://vcoud.com
   - name: Unainversión
     url: https://unainversion.com
+  - name: Prueba Test Fail
+    url: https://example.koj.co/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
