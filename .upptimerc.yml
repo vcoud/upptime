@@ -6,20 +6,24 @@ sites:
   - name: Google
     url: https://www.google.com
     icon: https://www.google.com/favicon.ico
-  - name: Wikipedia
-    url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
+    icon: https://news.ycombinator.com/y18.gif
   - name: Criptodolar
     url: https://criptodolar.net
+    icon: https://criptodolar.net/img/favicon-32x32.png
   - name: Vcoud
     url: https://vcoud.com
+    icon: https://vcoud.com/assets/paper_img/favicon/favicon-32x32.png
   - name: Unainversión
     url: https://unainversion.com
+    icon: https://unainversion.com/img/favicon-32x32.png
   - name: FS App
     url: https://farmingsimulator.app
+    icon: https://farmingsimulator.app/img/favicon-32x32.png
   - name: Tiendakapuy
-    url: https://tiendakapuy.com  
+    url: https://tiendakapuy.com
+    icon: https://tiendakapuy.com/assets/img/favicon/favicon-32x32.png
 
 status-website:
   theme: dark
