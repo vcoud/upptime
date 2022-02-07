@@ -18,6 +18,8 @@ sites:
     url: https://unainversion.com
   - name: FS App
     url: https://farmingsimulator.app
+  - name: Tiendakapuy
+    url: https://tiendakapuy.com  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
