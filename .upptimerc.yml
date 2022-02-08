@@ -13,7 +13,7 @@ sites:
     url: https://vcoud.com
     icon: https://vcoud.com/assets/paper_img/favicon/favicon.ico
   - name: Farming Simulator App
-    url: https://farmingsimulator.app
+    url: https://farmingsimulator.app/en
     icon: https://farmingsimulator.app/img/favicon.ico
   - name: Hacker News
     url: https://news.ycombinator.com
