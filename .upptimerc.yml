@@ -23,7 +23,7 @@ sites:
     url: https://tiendakapuy.com
 
 status-website:
-  theme: dark
+  theme: ocean
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
