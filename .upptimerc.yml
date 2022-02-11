@@ -3,9 +3,12 @@ owner: vcoud # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com    
-    icon: https://www.google.com/favicon.ico
+  - name: Criptodolar & Covid API
+    url: https://exchange.vcoud.com/
+    icon: https://criptodolar.net/img/favicon.ico
+  - name: Beisbol API
+    url: https://beisbol.vcoud.com/
+    icon: https://play-lh.googleusercontent.com/zkUjahvKtHUfxBdBhK7ATiriPyeM96HMoCBhRTKdH0SBQlVw4aLtuNSUUNxoLxXrsw=s180
   - name: Criptodolar
     url: https://criptodolar.net
     icon: https://criptodolar.net/img/favicon.ico
@@ -15,8 +18,6 @@ sites:
   - name: Farming Simulator App
     url: https://farmingsimulator.app/en
     icon: https://farmingsimulator.app/img/favicon.ico
-  - name: Hacker News
-    url: https://news.ycombinator.com
   - name: Unainversión
     url: https://unainversion.com
   - name: Tiendakapuy
