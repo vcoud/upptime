@@ -58,19 +58,19 @@
     "url": "https://vcoud.com",
     "icon": "https://vcoud.com/assets/paper_img/favicon/favicon.ico",
     "slug": "vcoud",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 243,
-    "timeDay": 310,
-    "timeWeek": 260,
-    "timeMonth": 243,
-    "timeYear": 243,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 240,
+    "timeDay": 226,
+    "timeWeek": 245,
+    "timeMonth": 240,
+    "timeYear": 240,
     "dailyMinutesDown": {
-      "2022-03-06": 1
+      "2022-03-06": 17
     }
   },
   {
