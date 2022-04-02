@@ -4,9 +4,9 @@
     "url": "https://exchange.vcoud.com/",
     "icon": "https://criptodolar.net/img/favicon.ico",
     "slug": "criptodolar-and-covid-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.76%",
@@ -16,6 +16,7 @@
     "timeMonth": 210,
     "timeYear": 215,
     "dailyMinutesDown": {
+      "2022-04-02": 0,
       "2022-03-25": 19,
       "2022-03-24": 23,
       "2022-03-23": 79,
@@ -28,9 +29,9 @@
     "url": "https://beisbol.vcoud.com/",
     "icon": "https://play-lh.googleusercontent.com/zkUjahvKtHUfxBdBhK7ATiriPyeM96HMoCBhRTKdH0SBQlVw4aLtuNSUUNxoLxXrsw=s180",
     "slug": "beisbol-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.85%",
@@ -40,6 +41,7 @@
     "timeMonth": 197,
     "timeYear": 177,
     "dailyMinutesDown": {
+      "2022-04-02": 0,
       "2022-03-25": 18,
       "2022-03-24": 22,
       "2022-03-23": 18,
@@ -52,9 +54,9 @@
     "url": "https://criptodolar.net",
     "icon": "https://criptodolar.net/img/favicon.ico",
     "slug": "criptodolar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.93%",
@@ -64,6 +66,7 @@
     "timeMonth": 239,
     "timeYear": 241,
     "dailyMinutesDown": {
+      "2022-04-02": 0,
       "2022-03-25": 18,
       "2022-03-24": 22,
       "2022-03-23": 17
@@ -74,9 +77,9 @@
     "url": "https://vcoud.com",
     "icon": "https://vcoud.com/assets/paper_img/favicon/favicon.ico",
     "slug": "vcoud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.86%",
@@ -86,6 +89,7 @@
     "timeMonth": 198,
     "timeYear": 218,
     "dailyMinutesDown": {
+      "2022-04-02": 0,
       "2022-03-25": 17,
       "2022-03-23": 15,
       "2022-03-11": 24,
@@ -97,9 +101,9 @@
     "url": "https://farmingsimulator.app/en",
     "icon": "https://farmingsimulator.app/img/favicon.ico",
     "slug": "farming-simulator-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -108,7 +112,9 @@
     "timeWeek": 234,
     "timeMonth": 278,
     "timeYear": 278,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-02": 0
+    }
   },
   {
     "name": "Unainversión",
@@ -133,9 +139,9 @@
     "url": "https://tiendakapuy.com",
     "icon": "https://favicons.githubusercontent.com/tiendakapuy.com",
     "slug": "tiendakapuy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -144,6 +150,8 @@
     "timeWeek": 209,
     "timeMonth": 321,
     "timeYear": 342,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-02": 0
+    }
   }
 ]
