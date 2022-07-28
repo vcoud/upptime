@@ -98,19 +98,19 @@
     "url": "https://farmingsimulator.app/en",
     "icon": "https://farmingsimulator.app/img/favicon.ico",
     "slug": "farming-simulator-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 275,
-    "timeDay": 244,
-    "timeWeek": 282,
-    "timeMonth": 319,
-    "timeYear": 275,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "94.30%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.97%",
+    "time": 276,
+    "timeDay": 293,
+    "timeWeek": 294,
+    "timeMonth": 322,
+    "timeYear": 276,
     "dailyMinutesDown": {
-      "2022-07-28": 0
+      "2022-07-28": 82
     }
   },
   {
