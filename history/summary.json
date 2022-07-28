@@ -98,18 +98,20 @@
     "url": "https://farmingsimulator.app/en",
     "icon": "https://farmingsimulator.app/img/favicon.ico",
     "slug": "farming-simulator-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 275,
-    "timeDay": 145,
-    "timeWeek": 274,
+    "timeDay": 244,
+    "timeWeek": 282,
     "timeMonth": 319,
     "timeYear": 275,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-28": 0
+    }
   },
   {
     "name": "Unainversión",
