@@ -119,9 +119,9 @@
     "url": "https://unainversion.com",
     "icon": "https://icons.duckduckgo.com/ip3/unainversion.com.ico",
     "slug": "unainversion",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -130,7 +130,9 @@
     "timeWeek": 435,
     "timeMonth": 369,
     "timeYear": 296,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-21": 0
+    }
   },
   {
     "name": "Tiendakapuy",
