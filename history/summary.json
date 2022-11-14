@@ -74,10 +74,10 @@
     "url": "https://vcoud.com",
     "icon": "https://vcoud.com/assets/paper_img/favicon/favicon.ico",
     "slug": "vcoud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 658,
@@ -86,6 +86,7 @@
     "timeMonth": 774,
     "timeYear": 658,
     "dailyMinutesDown": {
+      "2022-11-14": 2,
       "2022-09-22": 35,
       "2022-07-03": 15,
       "2022-03-25": 17,
@@ -120,11 +121,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/unainversion.com.ico",
     "slug": "unainversion",
     "status": "up",
-    "uptime": "96.09%",
+    "uptime": "96.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "64.11%",
-    "uptimeYear": "96.09%",
+    "uptimeYear": "96.10%",
     "time": 296,
     "timeDay": 355,
     "timeWeek": 238,
@@ -150,9 +151,9 @@
     "url": "https://tiendakapuy.com",
     "icon": "https://icons.duckduckgo.com/ip3/tiendakapuy.com.ico",
     "slug": "tiendakapuy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -161,6 +162,8 @@
     "timeWeek": 428,
     "timeMonth": 610,
     "timeYear": 517,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-14": 0
+    }
   }
 ]
