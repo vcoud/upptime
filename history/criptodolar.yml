@@ -1,7 +1,7 @@
 url: https://criptodolar.net
-status: up
-code: 200
-responseTime: 411
-lastUpdated: 2022-11-23T23:14:50.218Z
+status: down
+code: 502
+responseTime: 300
+lastUpdated: 2022-11-24T16:33:33.917Z
 startTime: Mon Feb 07 2022 13:20:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
