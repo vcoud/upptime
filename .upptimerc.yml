@@ -18,10 +18,18 @@ sites:
   - name: Farming Simulator App
     url: https://farmingsimulator.app/en
     icon: https://farmingsimulator.app/img/favicon.ico
-  - name: Unainversión
+  - name: Unainversion
     url: https://unainversion.com
   - name: Tiendakapuy
     url: https://tiendakapuy.com
+  - name: Gamepasslist
+    url: https://gamepasslist.app
+  - name: 19Stats
+    url: https://covid19stats.live
+  - name: Headlines API
+    url: https://headlines-api.gunow.co/
+  - name: Gamepasslist API
+    url: https://headlines-api.gunow.co/
 
 status-website:
   theme: ocean
