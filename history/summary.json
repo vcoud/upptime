@@ -212,19 +212,19 @@
     "url": "https://gamepasslist.app",
     "icon": "https://icons.duckduckgo.com/ip3/gamepasslist.app.ico",
     "slug": "gamepasslist",
-    "status": "down",
-    "uptime": "0.64%",
-    "uptimeDay": "0.64%",
-    "uptimeWeek": "0.64%",
-    "uptimeMonth": "0.64%",
-    "uptimeYear": "0.64%",
-    "time": 206,
-    "timeDay": 206,
-    "timeWeek": 206,
-    "timeMonth": 206,
-    "timeYear": 206,
+    "status": "up",
+    "uptime": "26.35%",
+    "uptimeDay": "26.35%",
+    "uptimeWeek": "26.35%",
+    "uptimeMonth": "26.35%",
+    "uptimeYear": "26.35%",
+    "time": 261,
+    "timeDay": 261,
+    "timeWeek": 261,
+    "timeMonth": 261,
+    "timeYear": 261,
     "dailyMinutesDown": {
-      "2023-05-12": 1
+      "2023-05-12": 12
     }
   },
   {
