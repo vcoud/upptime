@@ -254,19 +254,19 @@
     "url": "https://headlines-api.gunow.co/",
     "icon": "https://icons.duckduckgo.com/ip3/headlines-api.gunow.co.ico",
     "slug": "headlines-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 313,
-    "timeDay": 79,
-    "timeWeek": 204,
-    "timeMonth": 393,
-    "timeYear": 313,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 312,
+    "timeDay": 175,
+    "timeWeek": 212,
+    "timeMonth": 389,
+    "timeYear": 312,
     "dailyMinutesDown": {
-      "2023-07-26": 1
+      "2023-07-26": 11
     }
   },
   {
