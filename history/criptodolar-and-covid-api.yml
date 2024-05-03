@@ -1,7 +1,7 @@
 url: https://exchange.vcoud.com/
-status: down
-code: 502
-responseTime: 3350
-lastUpdated: 2024-05-03T20:46:22.260Z
+status: up
+code: 200
+responseTime: 240
+lastUpdated: 2024-05-03T20:57:40.926Z
 startTime: 2022-02-11T03:38:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
