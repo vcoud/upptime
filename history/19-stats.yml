@@ -1,7 +1,7 @@
 url: https://covid19stats.live
-status: up
-code: 200
-responseTime: 191
-lastUpdated: 2024-09-17T23:17:11.682Z
+status: down
+code: 502
+responseTime: 313
+lastUpdated: 2024-09-18T16:57:10.320Z
 startTime: 2023-05-12T08:49:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
