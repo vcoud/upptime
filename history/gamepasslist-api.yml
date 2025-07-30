@@ -1,7 +1,7 @@
 url: https://headlines-api.gunow.co/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-07-30T04:09:35.525Z
+status: up
+code: 200
+responseTime: 80
+lastUpdated: 2025-07-30T04:55:33.032Z
 startTime: 2023-05-12T08:49:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
