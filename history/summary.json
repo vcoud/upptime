@@ -5,7 +5,7 @@
     "icon": "https://criptodolar.net/img/favicon.ico",
     "slug": "criptodolar-and-covid-api",
     "status": "up",
-    "uptime": "98.23%",
+    "uptime": "98.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.00%",
@@ -252,10 +252,10 @@
     "url": "https://gamepasslist.app",
     "icon": "https://icons.duckduckgo.com/ip3/gamepasslist.app.ico",
     "slug": "gamepasslist",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 390,
@@ -264,6 +264,7 @@
     "timeMonth": 435,
     "timeYear": 399,
     "dailyMinutesDown": {
+      "2026-02-11": 1,
       "2025-06-25": 29,
       "2025-03-03": 20
     }
@@ -274,7 +275,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/covid19stats.live.ico",
     "slug": "19-stats",
     "status": "down",
-    "uptime": "58.34%",
+    "uptime": "58.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -285,7 +286,7 @@
     "timeMonth": 0,
     "timeYear": 928,
     "dailyMinutesDown": {
-      "2026-02-11": 85,
+      "2026-02-11": 942,
       "2026-02-10": 1440,
       "2026-02-09": 1440,
       "2026-02-08": 1440,
