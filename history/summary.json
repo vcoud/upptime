@@ -135,17 +135,17 @@
     "url": "https://gamepasslist.app",
     "icon": "https://icons.duckduckgo.com/ip3/gamepasslist.app.ico",
     "slug": "gamepasslist",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "98.56%",
-    "uptimeYear": "99.87%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "90.45%",
+    "uptimeWeek": "97.93%",
+    "uptimeMonth": "98.24%",
+    "uptimeYear": "99.84%",
     "time": 338,
-    "timeDay": 181,
-    "timeWeek": 322,
-    "timeMonth": 299,
-    "timeYear": 335,
+    "timeDay": 286,
+    "timeWeek": 329,
+    "timeMonth": 302,
+    "timeYear": 336,
     "dailyMinutesDown": {
       "2026-02-11": 62,
       "2026-07-13": 108,
@@ -154,7 +154,7 @@
       "2026-07-16": 81,
       "2026-07-18": 120,
       "2026-07-24": 71,
-      "2026-07-28": 1
+      "2026-07-28": 138
     }
   },
   {
@@ -165,9 +165,9 @@
     "status": "down",
     "uptime": "51.06%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "71.48%",
+    "uptimeWeek": "70.11%",
     "uptimeMonth": "41.92%",
-    "uptimeYear": "16.96%",
+    "uptimeYear": "16.93%",
     "time": 984,
     "timeDay": 0,
     "timeWeek": 283,
@@ -478,7 +478,7 @@
       "2025-10-01": 1440,
       "2025-09-30": 1440,
       "2025-09-29": 793,
-      "2026-07-28": 734,
+      "2026-07-28": 871,
       "2026-07-27": 1440,
       "2026-07-26": 702
     }
