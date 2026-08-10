@@ -1,7 +1,7 @@
 url: https://gamepasslist.app
-status: up
-code: 200
-responseTime: 622
-lastUpdated: 2026-08-09T23:29:34.752Z
+status: down
+code: 502
+responseTime: 48
+lastUpdated: 2026-08-10T16:10:34.648Z
 startTime: 2023-05-12T08:49:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
