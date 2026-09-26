@@ -135,16 +135,16 @@
     "url": "https://gamepasslist.app",
     "icon": "https://icons.duckduckgo.com/ip3/gamepasslist.app.ico",
     "slug": "gamepasslist",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "79.42%",
+    "uptimeDay": "79.39%",
     "uptimeWeek": "97.06%",
-    "uptimeMonth": "96.50%",
+    "uptimeMonth": "96.52%",
     "uptimeYear": "99.36%",
     "time": 367,
     "timeDay": 435,
     "timeWeek": 497,
-    "timeMonth": 532,
+    "timeMonth": 541,
     "timeYear": 372,
     "dailyMinutesDown": {
       "2026-02-11": 62,
@@ -172,7 +172,8 @@
       "2026-09-02": 149,
       "2026-09-07": 330,
       "2026-09-17": 287,
-      "2026-09-25": 296
+      "2026-09-25": 296,
+      "2026-09-26": 0
     }
   },
   {
@@ -181,10 +182,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/covid19stats.live.ico",
     "slug": "19-stats",
     "status": "up",
-    "uptime": "49.68%",
+    "uptime": "49.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "42.25%",
+    "uptimeMonth": "43.59%",
     "uptimeYear": "7.97%",
     "time": 904,
     "timeDay": 426,
